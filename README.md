@@ -31,7 +31,7 @@ The diagram dynamically scales to fit the size of the window it is in (mostly).
 
 If you've already installed HACS (https://hacs.xyz/), click this button and then click download!
 
-[![Open your Home Assistant instance and open the energy-sankey repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=davet2001&repository=energy-sankey&category=dashboard)
+[![Open your Home Assistant instance and open the energy-sankey repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=cmartin-kavlifoundation&repository=energy-sankey&category=dashboard)
 
 ## Installation via HACS
 
