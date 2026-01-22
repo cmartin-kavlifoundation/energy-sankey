@@ -1776,7 +1776,7 @@ export class ElecSankey extends LitElement {
             ${this._generateLabelDiv(
               batt.in.id,
               batt.out.rate > 0 ? mdiBatteryCharging : mdiBattery,
-              "",
+              "test",
               batt.out.rate,
               batt.in.rate,
               batt.out.rate > 0 ? battOutBlendColor : undefined,
